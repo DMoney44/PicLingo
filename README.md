@@ -5,9 +5,9 @@
 
 Examples:
 ![Before code.](https://i.imgur.com/1ZMmiGh.jpg)
-![After code.](https://imgur.com/0LmBMh2)
-![Before code.](https://imgur.com/ItLNxh0)
-![After code.](https://imgur.com/6ReM4Bj)
+![After code.](https://i.imgur.com/0LmBMh2.jpg)
+![Before code.](https://i.imgur.com/ItLNxh0.jpg)
+![After code.](https://i.imgur.com/6ReM4Bj.jpg)
 ## The Algorithm
 
 Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
