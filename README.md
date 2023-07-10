@@ -13,11 +13,13 @@ Examples:
 
 The Algorithm is a modified version of the detect net sample code. It uses argument parsers to get the data of the base language (1) and then what the user wants to
 translate that language into (2). It uses the **googletrans** library and the **unidecode** library. (In the command terminal type:
+
 pip3 install setuptools
 
 pip3 install googletrans
 
 pip3 install Unidecode
+
 which is necessary for the code to run properly.
 Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
 
