@@ -21,9 +21,9 @@ pip3 install googletrans
 
 pip3 install Unidecode
 
-which is necessary for the code to run properly. 
-
-The algorithm:
+which is necessary for the code to run properly. This program's main and only limitation is that it is not able to display accented letters. If I had more time to
+work on this project, I could have changed the font file from which **cudaFont()** gets its letters but I did not have enough time.
+This is the algorithm:
 
 ![Algorithm pic](https://i.imgur.com/ZfCKDov.jpg)
 
