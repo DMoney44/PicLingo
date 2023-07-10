@@ -4,7 +4,7 @@
  **jetson-inference** library and translates them into the specified languages.
 
 Examples:
-![Before code.](https://imgur.com/1ZMmiGh)
+![Before code.](https://i.imgur.com/1ZMmiGh.jpg)
 ![After code.](https://imgur.com/0LmBMh2)
 ![Before code.](https://imgur.com/ItLNxh0)
 ![After code.](https://imgur.com/6ReM4Bj)
