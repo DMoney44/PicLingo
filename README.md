@@ -1,10 +1,13 @@
 # PicLingo
 
- PicLingo is an AI application that allows people to visually learn another language by using their surroundings. It uses object detection and translates them into 
- the specified languages.
+ PicLingo is an AI application that allows people to visually learn another language by using their surroundings. It uses object detection **detectnet** in the 
+ **jetson-inference** library and translates them into the specified languages.
 
-![add image descrition here](direct image link here)
-
+Examples:
+![Before code.](https://imgur.com/1ZMmiGh)
+![After code.](https://imgur.com/0LmBMh2)
+![Before code.](https://imgur.com/ItLNxh0)
+![After code.](https://imgur.com/6ReM4Bj)
 ## The Algorithm
 
 Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
