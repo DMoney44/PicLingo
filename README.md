@@ -1,6 +1,7 @@
-# Project Name
+# PicLingo
 
- Add short description of project here > 
+ PicLingo is an AI application that allows people to visually learn another language by using their surroundings. It uses object detection and translates them into 
+ the specified languages.
 
 ![add image descrition here](direct image link here)
 
