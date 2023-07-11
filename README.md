@@ -23,7 +23,7 @@ This is the algorithm:
 
 ## Running this project
 
-First, you must install the required libraries in the command terminal type:
+First, you must install the required libraries. In the command terminal type:
 
 pip3 install setuptools
 
