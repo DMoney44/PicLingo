@@ -35,4 +35,4 @@ Once the libraries, project file, and the **jetson-inference** library are insta
 the file with **python3 PicLingoV2.py** type **--translate (base language) --out (translated language)** then type the image that you want to run through the code. 
 If you do not know the language codes, type **-h** or **-help** and scroll until you find the translation key.
 
-[View a video explanation here](video link)
+[View a video explanation here](https://youtu.be/Df-gQbyQHGw)
